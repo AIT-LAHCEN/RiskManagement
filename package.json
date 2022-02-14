@@ -65,7 +65,7 @@
                 }
             },
             "db": {
-                "kind": "sql"
+                "kind": "hana"
             },
             "xsuaa": {
                 "kind": "xsuaa"
